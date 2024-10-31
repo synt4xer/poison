@@ -150,7 +150,8 @@ body > .wrapper {
     color: var(--sidebar-socials-color) !important;
 }
 .heading {
-    margin-top: 1em;
+    /* margin-top: 1em; */
+    margin-top: 0.35rem;
 }
 .post-date {
     display: inline-block;
